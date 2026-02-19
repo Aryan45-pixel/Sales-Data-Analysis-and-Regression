@@ -1,0 +1,11 @@
+Order_ID,Date,Customer_Name,Region,Product,Quantity,Unit_Price,Total_Sales
+1001,01-01-2024,Amit Sharma,North,Laptop,1.0,55000.0,55000
+1002,02/01/2024,Priya Verma,South,Mobile,2.0,15000.0,30000
+1003,03-01-2024,Rahul Singh,East,Tablet,1.0,20000.0,20000
+1004,04/01/2024,Anjali Mehta,West,Laptop,1.0,55000.0,55000
+1005,05-01-2024,,North,Mobile,3.0,15000.0,45000
+1006,06/01/2024,Vikram Rao,South,Tablet,1.4,20000.0,20000
+1007,07-01-2024,Sneha Patil,East,Laptop,1.0,55000.0,55000
+1008,08/01/2024,Rohit Jain,West,Mobile,2.0,36500.0,30000
+1009,09-01-2024,Neha Kapoor,North,Tablet,1.0,20000.0,20000
+1010,10/01/2024,Amit Sharma,North,Laptop,1.0,55000.0,55000
